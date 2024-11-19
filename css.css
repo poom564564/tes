@@ -1,0 +1,57 @@
+body{
+    background-color: #586776;
+    }
+    .body001{
+        background-color: #57565c;
+        max-width: 1368px;
+        margin: auto;
+    }
+    .city{
+        float: left;
+        margin: 10px;
+        padding: 10px;
+        max-width: 300px;
+        max-height: 700px;
+        border: 1px solid rgb(150, 150, 150);
+        border-radius: 7px;
+        background-color: #b8c6c3;
+    
+        }
+    
+    img {
+        padding: 2px;
+        width: 200px;
+        height: 130px;
+        border-radius: 10px;
+        background-color: #bcb076;
+    }
+    .incity{
+        margin: 10px;
+        padding: 10px;
+        border-radius: 7px;
+        background-color: #bcb076;
+    }
+    h2{
+        background-color: #858c63;
+        text-align: center;
+        border-radius: 7px;
+    }
+    a{
+        background-color: #858c63;
+        padding: 7px;
+        text-align: center;
+        border-radius: 7px;
+    }
+h1{
+        background-color: #b8c6c3;
+        padding: 7px;
+        text-align: center;
+        border-radius: 7px;
+    }
+
+    p{
+        background-color: #858c63;
+        padding: 7px;
+        text-align: center;
+        border-radius: 7px;
+    }
